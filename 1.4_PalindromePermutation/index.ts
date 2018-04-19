@@ -5,6 +5,9 @@
   Input: Tact Coa
   Output: True (Permutation: "taco cat", "atco cta", etc.)
 */
-function PalinPermutation(str) {
+
+function PalinPermutation(str: string) {
+
 }
+
 export default PalinPermutation;
